@@ -1,4 +1,4 @@
-# ContaTerminal
+# Conta Terminal
 
 Este é um projeto Java simples que solicita ao usuário informações básicas sobre uma conta bancária e, em seguida, exibe essas informações formatadas.
 
