@@ -14,7 +14,7 @@ Para executar este projeto, você precisa ter o seguinte instalado em seu ambien
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/hugogadelha/contador-java.git
+   git clone https://github.com/hugogadelha/dio-trilha-java-basico/tree/main/DesafioControleFluxo
 
 2. **Importe o projeto:**
 
