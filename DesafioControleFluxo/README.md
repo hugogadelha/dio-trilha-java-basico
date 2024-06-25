@@ -47,4 +47,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests p
 
 ## Autor
 
-Este projeto foi desenvolvido por **Hugo Branches Gadelha Santos.**
+Este projeto foi desenvolvido por [**Hugo Branches Gadelha Santos.**](https://github.com/hugogadelha)
